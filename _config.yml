@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Machine Learning
 email: ngovi.se.fit@gmail.com
-description: machine learning researcher
+description: Machine Learning Blogs
 twitter_username: vingovan
 github_username: vingovan
 minimal_mistakes_skin: default
@@ -57,32 +57,25 @@ plugins:
 author:
   name   : "Vi Ngo Van"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I Am A Machine Learning Engineer"
   links:
-    - label: "Website"
+    - label: "facebook"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://facebook.com/vingovan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/vingvao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/vingovan"
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/vingovan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/vingovan"
 
 defaults:
   # _posts

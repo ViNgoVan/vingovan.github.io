@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Vi Ngo Van"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I Am A Machine Learning Engineer"
+  bio    : "NLP, Recommendation System, Deep Learning"
   links:
     - label: "facebook"
       icon: "fas fa-fw fa-link"
